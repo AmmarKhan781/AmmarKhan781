@@ -9,6 +9,14 @@ I build AI-powered tools, automation systems, and modern web solutions that solv
 <p align="left">
 Expert in <b>vibe coding</b> — blending clean logic, intuitive UX, and AI-assisted workflows to create web experiences and applications that just feel right.
 </p>
+<p align="left">
+  <b>Checkout My Portfolio📃:</b> 
+  <a href="http://ammarkhanportfolio.netlify.app/" target="_blank">
+    <b><span style="color: white;">✨ http://ammarkhanportfolio.netlify.app/ ✨</span></b>
+  </a>
+</p>
+
+
 
 ---
 
